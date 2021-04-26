@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "framework",
+    "logic",
+    "game",
+]
+
+[profile.dev]
+opt-level = 1
